@@ -50,11 +50,14 @@ NextGen Corp.’s database was loaded on PostgreSQL and queried accordingly to d
 
 :large_orange_diamond: Salary Analysis
 
+_________________________________________________________________________________________________________________________________________________________
+
 ## Employeee Retention Analysis
 
 In order to get answers for this analysis, I asked the following questions, and got answers using the queries below:
 
-<img width="705" height="427" alt="Screenshot 2025-07-03 182821" src="https://github.com/user-attachments/assets/38dc77e9-b205-4a35-b084-268f2ef283fa" />
+<img width="755" height="264" alt="Screenshot 2025-07-03 182005" src="https://github.com/user-attachments/assets/51b6f13b-3a60-498d-bed6-497bcabf7ee3" />
+
 
 <img width="705" height="427" alt="Screenshot 2025-07-03 182821" src="https://github.com/user-attachments/assets/374f05d8-7da8-4ad5-bd41-67a254cbe95f" />
 
@@ -65,6 +68,8 @@ The top 5 highest serving employees are:
 3. Frank Johnson
 4. Jane Lee
 5. Eve Wilson
+
+_______________________________________________________________________________________________________________________________________________________
 
 <img width="865" height="339" alt="Screenshot 2025-07-03 193304" src="https://github.com/user-attachments/assets/aa389b32-e729-4824-ae7a-fa73e54ac2e2" />
 <img width="742" height="322" alt="Screenshot 2025-07-03 193438" src="https://github.com/user-attachments/assets/10295abc-4170-4dcb-a80f-6922a5b7f3b8" />
@@ -101,9 +106,9 @@ The remaining 18% retired (natural occurrence).
 
 ## Recommendations
 
-:large_blue_diamond:Investigate the Marketing department’s turnover immediately.
+:large_blue_diamond: Investigate the Marketing department’s turnover immediately.
 
-:large_blue_diamond:Conduct exit interviews or employee surveys.
+:large_blue_diamond: Conduct exit interviews or employee surveys.
 
 :large_blue_diamond: Review leadership, workload, and role satisfaction.
 
