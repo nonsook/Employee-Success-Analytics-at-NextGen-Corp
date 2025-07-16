@@ -83,6 +83,8 @@ This level suggests instability or possible issues in workload, culture, or rete
 
 Sales and HR show healthy or manageable turnover (Both 27%). These departments are within a more typical industry range (10 - 30%, depending on the sector).
 
+__________________________________________________________________________________________________________________________________________________________
+
 <img width="927" height="425" alt="Screenshot 2025-07-03 202528" src="https://github.com/user-attachments/assets/38a94da6-0c30-46b5-8d46-f43427cf38d4" />
 <img width="913" height="284" alt="Screenshot 2025-07-03 202714" src="https://github.com/user-attachments/assets/43ed7064-e7c3-43a7-b1a5-4fa6e13f143e" />
 <img width="912" height="317" alt="Screenshot 2025-07-03 202925" src="https://github.com/user-attachments/assets/f44874ea-f6d4-47b9-9841-f20a47e43e54" />
@@ -92,6 +94,8 @@ A deeper query on the turnover table shows that 21 out of the 28 employees who l
 So, it means that high performers are actually the ones with a high risk of leaving the company. 
 
 This could be due to a feeling of not being adequately compensated for their hard work, or a poor work culture.
+
+__________________________________________________________________________________________________________________________________________________________
 
 <img width="735" height="216" alt="Screenshot 2025-07-03 205850" src="https://github.com/user-attachments/assets/758bfb90-98fa-468b-9000-6ba3c9dcd892" />
 <img width="1135" height="323" alt="Screenshot 2025-07-03 210018" src="https://github.com/user-attachments/assets/16872cda-8151-43f1-ae61-3cb6e0fd4623" />
@@ -103,6 +107,8 @@ Indicates a potential need for flexible work policies or wellness programs.
 Career Growth reasons (18%) shows some employees left for better long-term prospects. This may point to limited internal mobility or a lack of self-development opportunities. 
 
 The remaining 18% retired (natural occurrence).
+
+____________________________________________________________________________________________________________________________________________________________
 
 ## Recommendations
 
@@ -122,6 +128,7 @@ The remaining 18% retired (natural occurrence).
 
 :large_blue_diamond: For those leaving to “find another job”, evaluate how job packages compare to market rates.
 
+
 ## Performance Analysis
 
 Below are the questions along with queries I used for the performance analysis:
@@ -133,6 +140,8 @@ Below are the questions along with queries I used for the performance analysis:
 
 This represents about 47% which is almost half of the company’s employees. 
 
+__________________________________________________________________________________________________________________________________________________________
+
 <img width="782" height="494" alt="Screenshot 2025-07-03 230314" src="https://github.com/user-attachments/assets/26b3ab70-d950-4a1a-a7e8-354534c0e2d2" />
 <img width="630" height="321" alt="Screenshot 2025-07-03 230426" src="https://github.com/user-attachments/assets/cd32a9af-d124-485a-bfce-e82f7101642c" />
 
@@ -141,12 +150,16 @@ While 45 employees have a score below 3.5.
 
 This shows there is plenty room for improvement.
 
+_____________________________________________________________________________________________________________________________________________________________
+
 <img width="931" height="510" alt="Screenshot 2025-07-03 231607" src="https://github.com/user-attachments/assets/d223e846-502b-4a65-9b06-814e68d9838a" />
 <img width="534" height="216" alt="Screenshot 2025-07-03 231823" src="https://github.com/user-attachments/assets/17eace77-e316-4858-ad64-0da1e9b6946e" />
 <img width="570" height="213" alt="Screenshot 2025-07-03 231932" src="https://github.com/user-attachments/assets/0e1cee51-cc84-4e53-a070-92100ad278d4" />
 
 The Marketing department had the most employees with a 5.0 performance score, yet almost all left the company. This suggests that there may be issues with the salary not matching performance.
 They also topped the list of employees with a score below 3.5, alongside Engineering.
+
+___________________________________________________________________________________________________________________________________________________________
 
 <img width="764" height="255" alt="Screenshot 2025-07-04 000241" src="https://github.com/user-attachments/assets/5abe125e-c856-4a61-81ff-98724c5800ea" />
 <img width="463" height="310" alt="Screenshot 2025-07-04 000413" src="https://github.com/user-attachments/assets/67bd9080-9b2a-4071-84fd-dd22e33aad8a" />
@@ -161,11 +174,15 @@ Again, this may suggest high-performing but overworked or under-supported employ
 Sales have the lowest average (4.00), still strong though.
 Combined with lower turnover, this indicates a stable, consistent team.
 
+_______________________________________________________________________________________________________________________________________________________
+
 ## Recommendations
 
 :large_blue_diamond: Recognize and reward top departments like Marketing and Engineering teams for their performance.
 
 :large_blue_diamond: Support Sales with growth opportunities, even with their good score; explore coaching, skills development, or performance incentives to further enhance results.
+
+_______________________________________________________________________________________________________________________________________________________
 
 ## Salary Analysis
 For Salary Analysis, I executed the following queries to answer key questions
@@ -174,6 +191,8 @@ For Salary Analysis, I executed the following queries to answer key questions
 <img width="426" height="312" alt="Screenshot 2025-07-04 010846" src="https://github.com/user-attachments/assets/855c3854-bbf0-45db-9f87-9cc8b57364af" />
 
 Total salary expense for the company stood at $4,850,000.
+
+__________________________________________________________________________________________________________________________________________________________
 
 <img width="874" height="253" alt="Screenshot 2025-07-04 011455" src="https://github.com/user-attachments/assets/d8106cd3-787b-402c-8412-2cd9f31be7ca" />
 <img width="423" height="326" alt="Screenshot 2025-07-04 011629" src="https://github.com/user-attachments/assets/de19e505-e04e-437d-bb5d-098055b80f43" />
@@ -185,11 +204,15 @@ HR Specialists have a higher average salary than Engineers, which is unusual in 
 Marketing Specialists earn the least at $77,857. This is the lowest average salary despite Marketing having the highest average performance score (4.13). 
 This may be the cause of the high turnover rate in the Marketing department.
 
+______________________________________________________________________________________________________________________________________________________
+
 <img width="893" height="211" alt="Screenshot 2025-07-04 020728" src="https://github.com/user-attachments/assets/2de5d5bf-2ed0-4637-aed5-7c80a10e6c80" />
 <img width="416" height="324" alt="Screenshot 2025-07-04 020829" src="https://github.com/user-attachments/assets/57c35f97-907d-476c-aaa9-dad1037badce" />
 
 26 employees earn above $80,000. 
 This represents 43% of the entire employees.
+
+_______________________________________________________________________________________________________________________________________________________
 
 <img width="878" height="313" alt="Screenshot 2025-07-04 021411" src="https://github.com/user-attachments/assets/dc321412-0ec8-4b1b-ad1e-eb6ddd2180fc" />
 <img width="572" height="324" alt="Screenshot 2025-07-04 021452" src="https://github.com/user-attachments/assets/daba2d24-a072-4122-908b-4d5de0491c82" />
@@ -203,6 +226,8 @@ While departments with lower performance scores (HR and Sales) have higher avera
 Marketing performs best but earns the least.
 This could contribute to low morale and cause the high turnover being experienced at that department, because employees may feel undervalued.
 
+________________________________________________________________________________________________________________________________________________________
+
 ## Recommendations
 
 :large_blue_diamond: Review the Marketing team's compensation. Align salary packages with market rates and internal performance.
@@ -210,6 +235,8 @@ This could contribute to low morale and cause the high turnover being experience
 :large_blue_diamond: Consider incentives or bonuses to retain top-performing marketers.
 
 :large_blue_diamond: Assess HR and Engineering salary balance. Evaluate role scope and ensure equity across technical and non-technical functions.
+
+
 
 ## Conclusion
 
