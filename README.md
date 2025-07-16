@@ -128,6 +128,8 @@ ________________________________________________________________________________
 
 :large_blue_diamond: For those leaving to “find another job”, evaluate how job packages compare to market rates.
 
+___________________________________________________________________________________________________________________________________________________________
+
 
 ## Performance Analysis
 
@@ -174,7 +176,7 @@ Again, this may suggest high-performing but overworked or under-supported employ
 Sales have the lowest average (4.00), still strong though.
 Combined with lower turnover, this indicates a stable, consistent team.
 
-_______________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
 ## Recommendations
 
@@ -182,7 +184,8 @@ ________________________________________________________________________________
 
 :large_blue_diamond: Support Sales with growth opportunities, even with their good score; explore coaching, skills development, or performance incentives to further enhance results.
 
-_______________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
+
 
 ## Salary Analysis
 For Salary Analysis, I executed the following queries to answer key questions
@@ -204,7 +207,7 @@ HR Specialists have a higher average salary than Engineers, which is unusual in 
 Marketing Specialists earn the least at $77,857. This is the lowest average salary despite Marketing having the highest average performance score (4.13). 
 This may be the cause of the high turnover rate in the Marketing department.
 
-______________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
 <img width="893" height="211" alt="Screenshot 2025-07-04 020728" src="https://github.com/user-attachments/assets/2de5d5bf-2ed0-4637-aed5-7c80a10e6c80" />
 <img width="416" height="324" alt="Screenshot 2025-07-04 020829" src="https://github.com/user-attachments/assets/57c35f97-907d-476c-aaa9-dad1037badce" />
@@ -212,7 +215,7 @@ ________________________________________________________________________________
 26 employees earn above $80,000. 
 This represents 43% of the entire employees.
 
-_______________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
 <img width="878" height="313" alt="Screenshot 2025-07-04 021411" src="https://github.com/user-attachments/assets/dc321412-0ec8-4b1b-ad1e-eb6ddd2180fc" />
 <img width="572" height="324" alt="Screenshot 2025-07-04 021452" src="https://github.com/user-attachments/assets/daba2d24-a072-4122-908b-4d5de0491c82" />
@@ -236,6 +239,7 @@ ________________________________________________________________________________
 
 :large_blue_diamond: Assess HR and Engineering salary balance. Evaluate role scope and ensure equity across technical and non-technical functions.
 
+____________________________________________________________________________________________________________________________________________________________
 
 
 ## Conclusion
